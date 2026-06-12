@@ -1,18 +1,25 @@
 # Malcolm Dupuis ENC 1101 Portfolio
 
-This is a static portfolio website for Malcolm Dupuis's ENC 1101 course at UCF.
+This static website contains two main sections:
 
-## Included files
+1. Major Assignments
+   - Major Assignments Reflection
+   - Multimodal Literacy Narrative
+   - Genre Analysis
+   - Visual Rhetorical Analysis
 
-- `index.html` — main website page
-- `style.css` — website styling
-- `assets/multimodal-literacy-narrative-updated.pdf` — updated essay, embedded exactly as submitted
-- `assets/revision-memo.pdf` — revision memo, embedded exactly as submitted
+2. Artifacts
+   - Artifacts Reflection
+   - Artifact 1: Literacy Sponsorship
+   - Artifact 2: Cost of Code Switching
+   - Artifact 3: Killing Us Softly
 
-## How to update GitHub/Vercel
+All attached PDFs were copied directly into the `assets` folder without changing the PDF contents. The website provides PDF downloads and embedded readable views.
+
+## Update GitHub / Vercel
 
 1. Extract this ZIP.
-2. Copy `index.html`, `style.css`, `README.md`, and the `assets` folder into your GitHub Desktop repository folder.
-3. In GitHub Desktop, commit the changes.
+2. Copy `index.html`, `style.css`, `README.md`, `file-manifest.json`, and the `assets` folder into your GitHub Desktop repository folder.
+3. Commit the changes in GitHub Desktop.
 4. Click **Push origin**.
-5. Vercel will automatically redeploy your live site.
+5. Vercel should automatically redeploy the updated website.
