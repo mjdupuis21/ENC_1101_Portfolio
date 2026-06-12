@@ -23,3 +23,6 @@ All attached PDFs were copied directly into the `assets` folder without changing
 3. Commit the changes in GitHub Desktop.
 4. Click **Push origin**.
 5. Vercel should automatically redeploy the updated website.
+
+
+Updated: removed the overview section and changed the header line under Malcolm Dupuis.
